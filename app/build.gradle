@@ -4,7 +4,7 @@ plugins {
 }
 apply plugin: 'com.github.dcendents.android-maven'
 
-group = 'com.github.你的github用户名'
+group = 'com.github.sunxiaoqiang11'
 
 android {
     compileSdkVersion 30
